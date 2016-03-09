@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"number_in_column"
+			],
+			[
+				"number",
+				"number_in_row"
+			],
+			[
+				"is",
+				"is_valid_move"
+			],
+			[
+				"I",
+				"InputReader"
+			],
+			[
+				"input",
+				"input_reader"
+			],
+			[
+				"ra",
+				"raw_move"
+			],
+			[
+				"col",
+				"col_index"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"c",
+				"col_index"
+			],
+			[
+				"board",
+				"board_game"
+			],
+			[
+				"eletric",
+				"eletric_guitar"
+			],
+			[
+				"is_",
+				"is_eletric"
+			],
+			[
+				"aco",
+				"acoustic_guitar"
+			],
+			[
+				"ac",
+				"acoustic_guitar"
+			],
+			[
+				"guitar",
+				"guitar_type"
+			],
+			[
+				"print",
+				"print_board"
+			],
+			[
+				"contact_",
+				"contact_cintia"
+			],
+			[
+				"contact",
+				"contact_rosa"
+			],
+			[
+				"contac",
+				"contact_tiago"
+			],
+			[
+				"con",
+				"contacts_list"
+			],
+			[
+				"co",
+				"contact_cintia"
+			],
+			[
+				"cle",
+				"clean_line"
+			],
+			[
+				"you",
+				"you_favs"
+			],
+			[
+				"read",
+				"read_file"
+			],
+			[
+				"my",
+				"my_final_file"
+			],
+			[
+				"y",
+				"you_favs"
+			],
+			[
+				"me",
+				"me_file"
+			],
+			[
+				"file",
+				"file_letters_count"
+			],
+			[
+				"my_",
+				"my_final_file"
+			],
+			[
+				"draw",
+				"draw_checkerboard_line"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"se",
+				"seconds_convert"
+			],
+			[
+				"min",
+				"minutes_convert"
+			],
+			[
+				"hours",
+				"hours_convert"
+			],
+			[
+				"letters",
+				"letters"
+			],
+			[
+				"prime",
+				"prime_number"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"shopping",
+				"shopping_list"
+			],
+			[
+				"shoppi",
+				"shopping_list"
+			],
+			[
+				"shopp",
+				"shopping_list"
+			],
+			[
+				"cal",
+				"calculate_tip"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"ini",
+				"inicialNome"
+			],
+			[
+				"max",
+				"maxmin_2"
+			],
+			[
+				"m",
+				"m"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "board.py",
+			"settings":
+			{
+				"buffer_size": 1007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sudoku.py",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ktoth/hacademy/class_a.py",
+		"/Users/ktoth/hacademy/sudoku/board.py",
+		"/Users/ktoth/hacademy/sudoku/move.py",
+		"/Users/ktoth/hacademy/sudoku/input.py",
+		"/Users/ktoth/hacademy/sudoku/sudoku.py",
+		"/Users/ktoth/hacademy/sudoku/judge.py",
+		"/Users/ktoth/hacademy/sudoku/draft.py",
+		"/Users/ktoth/hacademy/dictionary_and_file.py",
+		"/Users/ktoth/hacademy/phone.py",
+		"/Users/ktoth/hacademy/contacts.py",
+		"/Users/ktoth/hacademy/chocolate.py",
+		"/Users/ktoth/hacademy/chocolate_class.py",
+		"/Users/ktoth/hacademy/sudoku.py",
+		"/Users/ktoth/hacademy/functions.py",
+		"/Users/ktoth/hacademy/loops_and_conditionals.py",
+		"/Users/ktoth/hacademy/rascunho4.py",
+		"/Users/ktoth/hacademy/compare_favs.py",
+		"/Users/ktoth/hacademy/compare_favs2.py",
+		"/Users/ktoth/hacademy/compare_favs3.py",
+		"/Users/ktoth/hacademy/rascunho2.py",
+		"/Users/ktoth/hacademy/rascunho.py",
+		"/Users/ktoth/hacademy/teachers_file.txt",
+		"/Users/ktoth/hacademy/dictionary.py",
+		"/Users/ktoth/hacademy/tuple.py",
+		"/Users/ktoth/hacademy/loops.py",
+		"/Users/ktoth/hacademy/prime_number.py",
+		"/Users/ktoth/hacademy/while2.py",
+		"/Users/ktoth/hacademy/while.py",
+		"/Users/ktoth/hacademy/list.py",
+		"/Users/ktoth/hacademy/bill_calculator.py",
+		"/Users/ktoth/hacademy/count_letters.py",
+		"/Users/ktoth/hacademy/prime_number2.py",
+		"/Users/ktoth/C/Recomeço/primosencadeados",
+		"/Users/ktoth/hacademy/conditionals3.py",
+		"/Users/ktoth/Python/project3.py",
+		"/Users/ktoth/Python/project2.py",
+		"/Users/ktoth/Python/project1.py",
+		"/Users/ktoth/C/Recomeço/struct2.c",
+		"/Users/ktoth/C/Recomeço/struct1.c",
+		"/Users/ktoth/C/Recomeço/struct.c",
+		"/Users/ktoth/C/Recomeço/vetormax.c",
+		"/Users/ktoth/C/Recomeço/vetormin.c",
+		"/Users/ktoth/C/Recomeço/vetormaxmin.c",
+		"/Users/ktoth/C/Recomeço/string3.c",
+		"/Users/ktoth/C/Recomeço/somafloat2.c",
+		"/Users/ktoth/C/Recomeço/string2.c",
+		"/Users/ktoth/C/Recomeço/string.c",
+		"/Users/ktoth/C/Recomeço/vetor4.c",
+		"/Users/ktoth/C/Recomeço/vetor3.c",
+		"/Users/ktoth/C/Recomeço/vetor2.c",
+		"/Users/ktoth/C/Recomeço/vetor.c",
+		"/Users/ktoth/C/Recomeço/funcaoB.c",
+		"/Users/ktoth/C/Recomeço/funcaoA.c",
+		"/Users/ktoth/C/Recomeço/ponteiros6.c",
+		"/Users/ktoth/C/Recomeço/ponteiros2.c",
+		"/Users/ktoth/C/Recomeço/ponteiros4.c",
+		"/Users/ktoth/C/Recomeço/ponteiros3.c",
+		"/Users/ktoth/C/Recomeço/ponteiros5.c",
+		"/Users/ktoth/C/Recomeço/ponteiros1.c",
+		"/Users/ktoth/C/Recomeço/funcaoprimo.c",
+		"/Users/ktoth/C/Recomeço/funcao6.c",
+		"/Users/ktoth/C/Recomeço/funcao5.c",
+		"/Users/ktoth/C/Recomeço/funcao4.c",
+		"/Users/ktoth/C/estudos.sublime-project",
+		"/Users/ktoth/C/Recomeço/funcao3.c",
+		"/Users/ktoth/C/Recomeço/funcao2.c",
+		"/Users/ktoth/C/Recomeço/funcao.c",
+		"/Users/ktoth/C/Recomeço/epsilom.c",
+		"/Users/ktoth/C/Recomeço/somafloat.c",
+		"/Users/ktoth/C/Recomeço/indicadorpassagem.c",
+		"/Users/ktoth/C/Recomeço/paresencadeados.c",
+		"/Users/ktoth/C/Recomeço/paresencadeados",
+		"/Users/ktoth/C/Recomeço/primosencadeados.c",
+		"/Users/ktoth/C/Recomeço/teste",
+		"/Users/ktoth/C/Recomeço/sequencia.c",
+		"/Users/ktoth/C/Recomeço/divisorespositivos.c",
+		"/Users/ktoth/C/Recomeço/somainteiros.c",
+		"/Users/ktoth/C/Recomeço/somadigitos.c",
+		"/Users/ktoth/C/Recomeço/potencia.c",
+		"/Users/ktoth/C/Recomeço/paresdecrescentes.c",
+		"/Users/ktoth/C/Recomeço/parescrescentes.c",
+		"/Users/ktoth/C/Recomeço/numerotriangular.c",
+		"/Users/ktoth/C/Recomeço/numeroslidosesoma.c",
+		"/Users/ktoth/C/Recomeço/numeroslidos.c",
+		"/Users/ktoth/C/Recomeço/naturaisdecrescentes.c",
+		"/Users/ktoth/C/Recomeço/naturaiscrescentes.c",
+		"/Users/ktoth/C/Recomeço/mdc.c",
+		"/Users/ktoth/C/Recomeço/fatorial.c",
+		"/Users/ktoth/C/Recomeço/congruente.c"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "board.py",
+					"settings":
+					{
+						"buffer_size": 1007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "sudoku.py",
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 196.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true
+}
