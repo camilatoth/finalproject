@@ -1,15 +1,13 @@
 # finalproject
-Sudoku Game
+Simplified Sudoku Game
 
 I) Create a 9 x 9 grid and fill the first row with 9 unique random numbers
 
-II) Fill the rest of the spaces with zeroes
+II) Fill the rest of the spaces with zeros
 
-III) Columns, 3 x 3 grids and rows should have unique numbers from 1 to 9
+III) Repeat the process until all zeros are replaced by a number from 1 to 9
 
-IV) Repeat the process until all zeroes are replaced by a number from 1 to 9
-
-IV) Produce a random number and test the number to the sudoku rules
+IV) Choose a random number and test the number to the sudoku rules
 
 
 Code:
