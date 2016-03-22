@@ -1,11 +1,26 @@
+from puzzles import PuzzlesGenerator
+
 class Board(object):
 	def __init__(self):
-		self.game_board = [[0] * 9 for i in range(9)]
-
+		self.game_board = PuzzlesGenerator().random_puzzle()
 
 	def print_board(self):
-		for line in self.game_board:
-			print line
+		print " "  , 
+
+		for i in range(9): # prints the index of the board
+			print "%i" % (i) , 
+	
+		print ""
+
+		for row_index in range(9):	
+			print  row_index  , 
+			for col_index in range(9):
+				if self.game_board[row_index][col_index] == 0:
+					print "_"	,
+				else:
+					print self.game_board[row_index][col_index] , 
+
+			print ""
 
 	def is_position_available(self, row_index, col_index):
 		if self.game_board[row_index][col_index] == 0:
@@ -35,11 +50,29 @@ class Board(object):
 		self.game_board[row_index][col_index] = number
 
 	def is_game_over(self):
-		for row_index in range(1,10):
-			for col_index in range(1,10):
+		for row_index in range(9):
+			for col_index in range(9):
 				if self.game_board[row_index][col_index] == 0:
 					return False
-		return True		 
+		return True		
+
+	def three_grid_range(self, index):
+		if index in [0, 1, 2]:
+			return range(0,3)
+		elif index in [3, 4, 5]:
+			return range(3,6)
+		else:
+			return range(6,9)
+
+	def has_number_in_three_grid(self, row_index, col_index, number):
+		row_range = self.three_grid_range(row_index) 				
+		col_range = self.three_grid_range(col_index) 
+
+		for row_index in row_range:
+			for col_index in col_range:
+				if self.game_board[row_index][col_index] == number:
+					return True
+		return False 
 
 
 

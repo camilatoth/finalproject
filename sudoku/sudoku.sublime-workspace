@@ -4,12 +4,52 @@
 		"selected_items":
 		[
 			[
-				"num",
-				"number_in_column"
+				"puz",
+				"puzzle_4"
+			],
+			[
+				"pu",
+				"puzzle_3"
+			],
+			[
+				"puzzle",
+				"puzzle_3"
 			],
 			[
 				"number",
-				"number_in_row"
+				"number_in_three_grid"
+			],
+			[
+				"board",
+				"board"
+			],
+			[
+				"three",
+				"three_grid"
+			],
+			[
+				"c",
+				"col_index"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"col_",
+				"col_range"
+			],
+			[
+				"row_",
+				"row_index"
+			],
+			[
+				"thre",
+				"three_grid_range"
+			],
+			[
+				"num",
+				"number_in_column"
 			],
 			[
 				"is",
@@ -30,18 +70,6 @@
 			[
 				"col",
 				"col_index"
-			],
-			[
-				"row",
-				"row_index"
-			],
-			[
-				"c",
-				"col_index"
-			],
-			[
-				"board",
-				"board_game"
 			],
 			[
 				"eletric",
@@ -188,18 +216,10 @@
 	"buffers":
 	[
 		{
-			"file": "board.py",
+			"file": "/Users/ktoth/hacademy/gui.py",
 			"settings":
 			{
-				"buffer_size": 1007,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sudoku.py",
-			"settings":
-			{
-				"buffer_size": 674,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -228,6 +248,16 @@
 	},
 	"file_history":
 	[
+		"/Users/ktoth/finalproject/sudoku/test2.py",
+		"/Users/ktoth/finalproject/sudoku/judge.py",
+		"/Users/ktoth/finalproject/sudoku/puzzles.py",
+		"/Users/ktoth/finalproject/sudoku/board.py",
+		"/Users/ktoth/finalproject/sudoku/test.py",
+		"/Users/ktoth/hacademy/dictionary_and_file.py",
+		"/Users/ktoth/hacademy/loops_and_conditionals.py",
+		"/Users/ktoth/hacademy/checkerboard.py",
+		"/Users/ktoth/finalproject/sudoku/sudoku.py",
+		"/Users/ktoth/finalproject/sudoku/sudoku.sublime-project",
 		"/Users/ktoth/hacademy/class_a.py",
 		"/Users/ktoth/hacademy/sudoku/board.py",
 		"/Users/ktoth/hacademy/sudoku/move.py",
@@ -235,14 +265,12 @@
 		"/Users/ktoth/hacademy/sudoku/sudoku.py",
 		"/Users/ktoth/hacademy/sudoku/judge.py",
 		"/Users/ktoth/hacademy/sudoku/draft.py",
-		"/Users/ktoth/hacademy/dictionary_and_file.py",
 		"/Users/ktoth/hacademy/phone.py",
 		"/Users/ktoth/hacademy/contacts.py",
 		"/Users/ktoth/hacademy/chocolate.py",
 		"/Users/ktoth/hacademy/chocolate_class.py",
 		"/Users/ktoth/hacademy/sudoku.py",
 		"/Users/ktoth/hacademy/functions.py",
-		"/Users/ktoth/hacademy/loops_and_conditionals.py",
 		"/Users/ktoth/hacademy/rascunho4.py",
 		"/Users/ktoth/hacademy/compare_favs.py",
 		"/Users/ktoth/hacademy/compare_favs2.py",
@@ -356,10 +384,10 @@
 			[
 				{
 					"buffer": 0,
-					"file": "board.py",
+					"file": "/Users/ktoth/hacademy/gui.py",
 					"settings":
 					{
-						"buffer_size": 1007,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -372,8 +400,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -384,36 +411,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "sudoku.py",
-					"settings":
-					{
-						"buffer_size": 674,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -445,7 +444,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.953789279113,
 			1.0
 		],
 		"rows":

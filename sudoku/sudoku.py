@@ -26,5 +26,5 @@ class Sudoku(object):
 				print "That is not a valid movement. Try again!"
 
 
-sudoku = Sudoku()
-sudoku.start_game()
+sudoku = Sudoku() # the instantiation of the class Sudoku is the value attributed to the variable sudoku
+sudoku.start_game() # calls the method in the class
